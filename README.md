@@ -1,3 +1,3 @@
 # BOOK
 Personal Bookshelf
-![image](https://github.com/picture.png)
+![image](https://github.com/Picture.png)
